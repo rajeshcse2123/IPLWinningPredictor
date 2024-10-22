@@ -20,37 +20,9 @@ The project consists of the following steps:
 
 🚀 Deployment with Streamlit: The project was deployed via Streamlit, a robust framework for developing and sharing data applications. By hosting the IPL Victory Predictor on Streamlit, users gain remote access to the application, facilitating convenient exploration of team performance and prediction-making for IPL enthusiasts, data analysts, and cricket aficionados alike.
 
-## 🔧 Running This Project
-
-To run the IPL Victory Predictor on your local system, follow these steps:
-
-Clone the repository to your local machine:
-
-
-
-```bash
-  git clone https://github.com/lokesh-cuttamanchi/IPL-Predictor-2024.git
-```
-
-Install the required dependencies:
-
-```bash
-  pip install -r requirements.txt
-```
-
-Run the project:
-
-```bash
-  streamlit run main.py
-```
 
 ## Screenshots
 
 ![Screenshot 2024-05-10 140957](https://github.com/lokesh-cuttamanchi/IPL-Predictor-2024/assets/133412331/6d20046d-c78b-4be1-8b23-3cf2aaafe241)
 
-
-
-## Authors
-
-- [@lokesh_cuttamanchi](https://github.com/lokesh-cuttamanchi)
 
